@@ -15,7 +15,7 @@ labels:
 
 ## Reflecting on My Introduction to TypeScript
 
-As a newcomer to TypeScript, I’ve found it to be an intriguing blend of flexibility and structure. Unlike JavaScript, TypeScript introduces optional static typing, which enhances code clarity and reduces runtime errors. Coming from a background of languages like Python and Java, I appreciate how TypeScript bridges the gap between JavaScript’s dynamic nature and Java’s rigid typing. This balance makes it particularly appealing for larger projects where maintainability and scalability are key.
+As a newcomer to TypeScript, I’ve found it to be an intriguing blend of flexibility and structure. A notable difference from JavaScript, is that TypeScript seems to enhances code clarity and reduces runtime errors. Coming from a background of languages like Python and Java, I appreciate how TypeScript bridges the gap between JavaScript’s dynamic nature and Java’s rigid typing. This balance makes it particularly appealing for larger projects where maintainability and scalability are key.
 
 This module also deepened my understanding of ES6 features, such as arrow functions, template literals, and destructuring. TypeScript builds on these foundations with interfaces, and type annotations, providing tools for defining clear and predictable code. From a software engineering perspective, TypeScript’s ability to integrate type safety into JavaScript environments makes it a valuable language, especially for collaborative projects.
 
