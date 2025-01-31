@@ -21,10 +21,9 @@ Effective communication is one of the most crucial skills for software engineers
 ## Example of a Smart Question
 
 Question: What are the most important points when getting involved in an open-source project?
+(Stack Overflow Link: https://stackoverflow.com/questions/644202/what-are-the-most-important-points-when-getting-involved-in-an-open-source-proje)
 
-[Stack Overflow Link: https://stackoverflow.com/questions/644202/what-are-the-most-important-points-when-getting-involved-in-an-open-source-proje]
-
-- This question adheres to Raymond’s guidelines in several ways:
+This question adheres to Raymond’s guidelines in several ways:
 - Clarity and Conciseness: The title clearly indicates the focus on best practices for joining an open-source project.
 - Context and Effort: The user elaborates on their curiosity about open-source involvement, setting the stage for detailed, informative responses.
 - Technical Precision: The question invites experienced contributors to share insights, ensuring that responses are practical and valuable.
