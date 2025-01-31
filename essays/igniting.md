@@ -14,7 +14,7 @@ labels:
 
 *Reflect on Smart Questions*
 
-## The Importance of Asking Smart Questions in Software Engineering
+## Importance of Asking Smart Questions in Software Engineering
 
 Effective communication is one of the most crucial skills for software engineers, and asking the right questions is a fundamental part of that process. Eric Raymond’s essay, How to Ask Questions the Smart Way, outlines best practices for interacting with the open-source community and obtaining valuable assistance. This essay will explore two examples from Stack Overflow: one demonstrating the principles of smart questioning and another illustrating the consequences of failing to do so.
 
@@ -45,10 +45,10 @@ The responses to this question reflect the inefficiency of poor questioning. Mos
 
 ## Example Responses That Do Not Lead to Effective and Efficient Help:
 
-"Can you be more specific?" – This response is common when a question lacks clarity, forcing the asker to refine their question instead of receiving an answer.
-"Just find a project and contribute." – This is an unhelpful, vague response that does not provide actionable steps.
-"Google it." – While the answer might be true, it does not facilitate a meaningful exchange of knowledge.
-"Check GitHub." – Although it suggests a potential resource, it lacks detail on how to navigate GitHub effectively for a beginner.
+1. "Can you be more specific?" – This response is common when a question lacks clarity, forcing the asker to refine their question instead of receiving an answer.
+2. "Just find a project and contribute." – This is an unhelpful, vague response that does not provide actionable steps.
+3. "Google it." – While the answer might be true, it does not facilitate a meaningful exchange of knowledge.
+4. "Check GitHub." – Although it suggests a potential resource, it lacks detail on how to navigate GitHub effectively for a beginner.
 
 ## Lessons Learned
 
