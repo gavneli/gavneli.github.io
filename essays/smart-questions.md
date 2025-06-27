@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Reflecting on Coding Standards"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-13
+date: 2025-06-27
 published: true
 labels:
   - Questions
